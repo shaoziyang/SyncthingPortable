@@ -6,12 +6,10 @@
     <BuildModes Active="Default"/>
     <Units Count="11">
       <Unit0>
-        <Filename Value="SyncthingPortable.lpr"/>
+        <Filename Value="tinySyncthingPortable.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
-        <WindowIndex Value="-1"/>
-        <TopLine Value="-1"/>
-        <CursorPos X="-1" Y="-1"/>
+        <CursorPos X="16"/>
         <UsageCount Value="36"/>
       </Unit0>
       <Unit1>
@@ -22,8 +20,8 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="196"/>
-        <CursorPos X="67" Y="200"/>
+        <TopLine Value="138"/>
+        <CursorPos X="70" Y="141"/>
         <UsageCount Value="36"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>

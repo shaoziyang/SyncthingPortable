@@ -1,4 +1,4 @@
-program SyncthingPortable;
+program tinySyncthingPortable;
 
 {$mode objfpc}{$H+}
 

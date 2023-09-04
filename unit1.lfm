@@ -32,7 +32,7 @@ object frmMain: TfrmMain
       OnClick = pmiWebGuiClick
     end
     object pmiRestart: TMenuItem
-      Caption = 'Restart'
+      Caption = 'Restart syncthing'
       ImageIndex = 1
       OnClick = pmiRestartClick
     end
